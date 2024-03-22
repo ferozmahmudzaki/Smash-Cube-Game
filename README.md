@@ -1,4 +1,4 @@
-#Smash-Cube-Game
+# Smash-Cube-Game
 
 Smash Cube is an exhilarating arcade-style game that combines fast-paced action with strategic gameplay.
 
